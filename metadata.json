@@ -1,0 +1,5 @@
+{
+  "name": "ReportFixTest",
+  "description": "A simple, clean web application displaying the ReportFixTest title, styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}
